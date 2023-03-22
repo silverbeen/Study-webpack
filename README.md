@@ -1,8 +1,10 @@
 # Study-webpack
 
-```npm i -D webpack-dev-server ```
+
 
 ## 웹팩 개발 서버
+```npm i -D webpack-dev-server ```
+
 #### devServer
 
  * contentBase: 정적파일을 제공할 경로. 기본값은 웹팩 아웃풋이다.
