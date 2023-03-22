@@ -110,7 +110,7 @@ https://yamoo9.gitbook.io/webpack/webpack/webpack-plugins/minimize-css-files
 
 ``` npm i -D terser-webpack-plugin```
 
-``` npm i -D copy-webpack-plugin``` : 자주 사용되는 import들을 전역으로 설정해 매번 파일에서 불러오지 않도록 설정해주는 
+``` npm i -D copy-webpack-plugin``` : 자주 사용되는 import들을 전역으로 설정해 매번 파일에서 불러오지 않도록 설정해주기 위한 플러그인이다.
 
 
 ```
