@@ -1,6 +1,9 @@
 # Study-webpack
 
 
+```
+const mode = process.env.NODE_ENV || "development"; // 기본값을 development로 설정
+```
 
 ## 웹팩 개발 서버
 ```npm i -D webpack-dev-server ```
